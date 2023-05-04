@@ -93,7 +93,7 @@
 .shopping-cart .summary .summary-item:not(:last-of-type) {
   padding-bottom: 10px;
   padding-top: 10px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 2px solid rgb(94, 164, 243);
 }
 
 .shopping-cart .summary .text {
